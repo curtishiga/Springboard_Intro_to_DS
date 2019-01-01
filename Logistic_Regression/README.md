@@ -1,3 +1,5 @@
-# Springboard-7.5---Logistic-Regression
+# Springboard 7.5
 
-This is in satisfaction of Springboard Exercise 7.5 on logistic regression
+## Logistic Regression
+
+This is in satisfaction of Springboard Exercise 7.5 on logistic regression.
