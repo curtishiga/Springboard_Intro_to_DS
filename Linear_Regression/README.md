@@ -1,3 +1,5 @@
-# Springboard-7.3---Linear-Regression
+# Springboard 7.3
 
-This repository is in requirement to Springboard exercise 7.3 on linear regression
+## Linear Regression
+
+This repository is in requirement to Springboard exercise 7.3 on linear regression.
