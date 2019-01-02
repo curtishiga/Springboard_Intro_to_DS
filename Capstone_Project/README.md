@@ -5,20 +5,20 @@
 This is my Capstone Project for Springboard's Introduction to Data Science course. The purpose of this project is investigate the impact of the three point line as on a team's success. For more details on the motivation behind this project, please reference "capstone_project_proposal.pdf" above.
 
 This repository is laid out in the following manner:
-- Data Sets
+- [Data Sets](https://github.com/curtishiga/Springboard_Intro_to_DS/tree/master/Capstone_Project/Data%20Sets)
   - [complete_gamelogs.csv](https://github.com/curtishiga/Springboard_Intro_to_DS/blob/master/Capstone_Project/Data%20Sets/complete_gamelogs.csv)
     - Game-by-game three-point data for every team
   - [team_gamelogs_3s.csv](https://github.com/curtishiga/Springboard_Intro_to_DS/blob/master/Capstone_Project/Data%20Sets/team_gamelogs_3s.csv)
     - Original three-point data pulled from MySportsFeeds
   - [team_statistics.csv](https://github.com/curtishiga/Springboard_Intro_to_DS/blob/master/Capstone_Project/Data%20Sets/team_statistics.csv)
     - Team-by-team three-point data throughout the entire season
-- Final
+- [Final](https://github.com/curtishiga/Springboard_Intro_to_DS/tree/master/Capstone_Project/Final)
   - [Final Presentation.pdf](https://github.com/curtishiga/Springboard_Intro_to_DS/blob/master/Capstone_Project/Final/Final%20Presentation.pdf)
     - Slides of processes taken for this project and the results for the models
   - [Final_Results_Report.pdf](https://github.com/curtishiga/Springboard_Intro_to_DS/blob/master/Capstone_Project/Final/Final_Results_Report.pdf)
     - Report summarizing steps taken to clean, explore, and model the data
   - (Latest version of the R files listed below)
-- Reports
+- [Reports](https://github.com/curtishiga/Springboard_Intro_to_DS/tree/master/Capstone_Project/Reports)
   - [Data_Story.pdf](https://github.com/curtishiga/Springboard_Intro_to_DS/blob/master/Capstone_Project/Reports/Data_Story.pdf)
     - This report summarizes the entire project and the steps that were taken to complete this project
   - [Data_Wrangling_Summary.pdf](https://github.com/curtishiga/Springboard_Intro_to_DS/blob/master/Capstone_Project/Reports/Data_Wrangling_Summary.pdf)
